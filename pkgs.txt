@@ -1,1 +1,0 @@
-npm i -D concurrently will run frontend and backend at same time in one terminal
